@@ -1,3 +1,43 @@
+ATLAS
+Home
+Data Sources
+Search
+Concept Sets
+Cohort Definitions
+Characterizations
+Cohort Pathways
+Incidence Rates
+Profiles
+Estimation
+Prediction
+Reusables
+Jobs
+Configuration
+Feedback
+Apache 2.0
+open source software
+provided by
+
+join the journey
+
+English
+  
+ Cohort #1782628 
+created by anonymous on 2023-04-19 13:41, modified by anonymous on 2023-04-19 14:50
+cohortstudyathon
+     
+Definition
+Concept Sets
+Generation
+Samples
+Reporting
+Export
+Versions
+Messages 7
+Text View
+Graphical View
+JSON
+SQL
 {
   "ConceptSets": [
     {
@@ -42,14 +82,14 @@
       "PostDays": 0
     },
     "PrimaryCriteriaLimit": {
-      "Type": "First"
+      "Type": "All"
     }
   },
   "QualifiedLimit": {
     "Type": "First"
   },
   "ExpressionLimit": {
-    "Type": "First"
+    "Type": "All"
   },
   "InclusionRules": [
     {
@@ -115,3 +155,4 @@
   "CensorWindow": {},
   "cdmVersionRange": ">=5.0.0"
 }
+  
